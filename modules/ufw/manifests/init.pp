@@ -1,4 +1,3 @@
-# Original module from https://usgcb.nist.gov/usgcb/rhel/download_rhel5.html
 class ufw {
         package {
                 "ufw":
